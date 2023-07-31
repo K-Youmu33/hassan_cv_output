@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;900&display=swap");
+@import url("utilities.css");
+@import url("section.css");
+@import url("contactus.css");
+@import url("services.css");
+@import url("service-gallery.css");
+
+
+#padding-for-landgingpagevideo {
+ aspect-ratio: 16 / 9;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-top: -64px;
+ opacity: 60%;
+ /* background: white; */
+}
+.landingpage-shadows{
+ filter: drop-shadow(0 0 0.15rem rgba(0,0,0, 60%)) drop-shadow(0 0 0.20rem rgba(0,0,0, 60%));
+ text-shadow: 0 0 0.2rem rgba(0,0,0, 60%), 0 0 0.15rem rgba(0,0,0, 30%);
+}
+
+.name-shadow{
+ text-shadow: 0 0 0.2rem rgba(0,0,0, 60%);
+}
+
+#padding-for-landgingpagevideo div {
+    width: 480px;
+    color: white;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#landing-page-video {
+  position: fixed;
+  right: 0;
+  top: 0;
+  width: 100%;
+  z-index: -1;
+}
+#before-padding-for-landgingpagevideo {
+  position: absolute;
+  width: 100vw;
+  background: black;
+  height: 64px;
+  top: 0;
+}
+

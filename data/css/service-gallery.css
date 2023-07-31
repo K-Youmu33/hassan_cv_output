@@ -1,0 +1,62 @@
+.image-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 320px);
+    gap: 8px;
+    justify-content: center;
+}
+.short-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 320px);
+    gap: 8px;
+    justify-content: center;
+}
+.video-grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 480px);
+    gap: 8px;
+    justify-content: center;
+}
+
+.short-preview-container {
+    /* height: 302.4px; */
+    /* width: 180px; */
+    aspect-ratio: 9 / 16;
+    /* aspect-ratio: 25 / 36; */
+    background: black;
+    margin: auto;
+    border-radius: 10px;
+    object-fit: cover;
+    overflow: hidden;
+
+    animation-name: loading-background-color;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.video-preview-container {
+    /* height: 302.4px; */
+    /* width: 180px; */
+    /* aspect-ratio: 9 / 16; */
+    /* aspect-ratio: 25 / 36; */
+    aspect-ratio: 4 / 3;
+    aspect-ratio: 16 / 9;
+    background: black;
+    margin: auto;
+    object-fit: cover;
+    overflow: hidden;
+
+    animation-name: loading-background-color;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.image-grid-child {
+  width: 320px;
+  height: 320px;
+}
+@keyframes loading-background-color {
+  from {background-color: lightgray;}
+  to {background-color: darkgray;}
+}

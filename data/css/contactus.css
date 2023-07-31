@@ -1,0 +1,9 @@
+.contactus-container{
+    display: flex;
+    gap: 64px;
+    /* justify-content: space-evenly; */
+}
+
+.contactus-section{
+    /* flex: 1 1 0px; */
+}
