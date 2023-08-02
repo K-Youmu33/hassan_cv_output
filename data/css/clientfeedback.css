@@ -1,0 +1,20 @@
+.client-feedback-cardimages-container {
+	display: grid;
+	/* gap: 8px; */
+	justify-content: center;
+	grid-template-columns: repeat( auto-fit, minmax(350px, 1fr) );
+	grid-template-columns: repeat( 3, fit-content(calc(1280px / 3)) );
+}
+.client-feedback-cardimages-container img {
+	width: calc(1280px / 3);
+}
+
+.client-feedback-badge-image-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 16px;
+}
+
+.client-feedback-badge-image-container img {
+	width: calc(1280px / 4);
+}

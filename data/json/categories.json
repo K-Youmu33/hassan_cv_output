@@ -1,12 +1,71 @@
 {
     "gallery": {
+	
+		"Rigging" : {
+			"videos": [
+                "UlZOwffgbOc", // Efe
+				"CD4dD4MAsJU", // Efe
+				"7PMl8BsHu7c" // 7achara 
+				
+			]
+		},
+		
+	
+		"3D Animation" : {
+			"videos": [
+                "dbu6pyku-Q8", //stars for you
+				"eCQtySZtK64", //detectif
+				"KucWw7dfVJs", //Intro
+				"8YwPdERO0aE", //Coffe
+				"65B8fVWmS1M", //Warriro alliance 
+				"ptUQHnBCuj8"  //rayan
+				
+			]
+		},
+	
+	
+	
+		"2D Animation" : {
+			"videos": [
+                "4AgLnqS6zuI", //dari sghir 
+				"vJKJNrH6ajw", //AbdKRim
+				"xTXxF78KYK4", //kounkan
+				"opxyXW2Mbsk" //Djaja
+				
+			]
+		},
         "Motion Graphics": {
             "videos": [
-                "jXxx8jHf5GU",
-                "GsXbmB1pF6w",
-                "w4MMPboe9iE",
-                "cJ5uR4to3Uk"
+			
+				"dbu6pyku-Q8", //Stars4u
+				"KbIjvqOpiyg", //MyGaz
+				"cJ5uR4to3Uk", //Dawla
+				"Yj9QjwprkNk", //venteFlash
+				"Vnp0fX4SfgY", //31 Ans MArjan
+				"YCGn51w4ha4", //Capptain
+				"GuBBejWPvtM", //Abweb showreel
+				"meoPu1cNZXI", //abweb 
+				"4xDeLho--_M" //ShowReel
+				
+				
             ]
+        },
+		"Modeling": {
+            "videos": [
+				"oR0sKWXHPxA",  //Luminaire 
+				"xoNw8Tsihlk", //Base
+				"kjR8zV5gPt0" //console
+				
+            ],
+			"images": [
+				"storm 54.png",
+				"Storm54.png", 
+				"bedroom and boy.jpg",
+				"living room and father.jpg",
+				"store and girl.jpg",
+				"faracha groupe.jpg",
+				"frita.jpg"
+			]
         },
         "Social Media": {
             "images": [
@@ -83,11 +142,20 @@
 
             ],
             "shorts": [
-                "E8umlUtBrkA",
+                "i4AJ1M1V-Lw",
+				"GQRTdIHLViY", //Mercedes nature
+				"E8umlUtBrkA", //hheeeee
                 "WnAx9r52apE",
                 "wHi9Cf1B-A0",
-                "6oaElKPpjIM",
-                "i4AJ1M1V-Lw"
+                "6oaElKPpjIM",        
+				"M5mN1DTwLZs", //europecar
+				"kOkfIafFbcg", //Esspressolab nature
+				"w6TkLpvJZCs", //Drive Thru
+				"pw6NLDmoSoc" //Eid Moubarak Sonny
+				
+				
+				
+				
             ]
         }
     }
