@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "hassan_cv_project.dll": "sha256-OggkCohCmXBLYEJpKVadMvGR03i9XFhBjYfdloyDllA=",
+      "hassan_cv_project.dll": "sha256-sJBrKn9S0aswtKNpErc1ZpWn9i7WBSXKDl0KV3+LzLs=",
       "Microsoft.AspNetCore.Components.dll": "sha256-LUY5WFMnoJr8ESurkLDp4lXLjsgdGGD4xuFklg35Wmw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ycjC7j8V8yzzkDzpHxWaSLqfMh\/wKQR2D1ZBoKyI5tY=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-9qxImYgHYfoL7WI8KoRNyY\/VRHkw7oy8x02BhBUbOiw=",
