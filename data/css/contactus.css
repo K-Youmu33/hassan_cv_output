@@ -1,6 +1,7 @@
 .contactus-container{
     display: flex;
     gap: 64px;
+    flex-wrap: wrap;
     /* justify-content: space-evenly; */
 }
 

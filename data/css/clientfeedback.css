@@ -4,6 +4,8 @@
 	justify-content: center;
 	grid-template-columns: repeat( auto-fit, minmax(350px, 1fr) );
 	grid-template-columns: repeat( 3, fit-content(calc(1280px / 3)) );
+	grid-template-columns: repeat( auto-fit, calc(1280px / 3) );
+    row-gap: 16px;
 }
 .client-feedback-cardimages-container img {
 	width: calc(1280px / 3);

@@ -15,6 +15,8 @@
  justify-content: center;
  margin-top: -64px;
  opacity: 60%;
+    overflow: hidden;
+
  /* background: white; */
 }
 .landingpage-shadows{
@@ -33,6 +35,7 @@
     flex-flow: column;
     align-items: center;
     justify-content: center;
+    padding-top: 64px;
 }
 
 #landing-page-video {
@@ -48,5 +51,11 @@
   background: black;
   height: 64px;
   top: 0;
+}
+/* For Mobile */
+@media screen and (max-width: 800px) {
+    #padding-for-landgingpagevideo div {
+        transform: scale(50%);
+    }
 }
 
