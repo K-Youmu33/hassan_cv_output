@@ -35,19 +35,24 @@
 </head>
 
 <body>
+
     <div id="app">
         <style>
             #loading-page {
                 background-color: black;
                 height: 100vh;
                 display: flex;
+                flex-direction: column;
                 justify-content: center;
                 align-items: center;
                 background-color: black;
+                gap: 16px;
             }
         </style>
         <div id="loading-page">
-            <img src="ZH Logo.png">
+            <img src="ZH Logo.png" />
+            <div style="color:white;" class="mud-progress-circular mud-default-text mud-progress-medium mud-progress-indeterminate" role="progressbar" aria-valuenow="0"><svg class="mud-progress-circular-svg" viewBox="22 22 44 44"><circle class="mud-progress-circular-circle mud-progress-indeterminate" cx="44" cy="44" r="20" fill="none" stroke-width="3"></circle></svg></div>
+
         </div>
     </div>
 
