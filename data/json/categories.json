@@ -1,18 +1,8 @@
 {
     "gallery": {
-	
-		"Rigging" : {
-			"videos": [
-                "UlZOwffgbOc", // Efe
-				"CD4dD4MAsJU", // Efe
-				"7PMl8BsHu7c" // 7achara 
-				
-			]
-		},
-		
-	
 		"3D Animation" : {
 			"videos": [
+                "IrWl2vKNubw", //Chniwla & boubriss
                 "dbu6pyku-Q8", //stars for you
 				"eCQtySZtK64", //detectif
 				"KucWw7dfVJs", //Intro
@@ -23,8 +13,14 @@
 			]
 		},
 	
-	
-	
+		"Rigging" : {
+			"videos": [
+                "UlZOwffgbOc", // Efe
+				"CD4dD4MAsJU", // Efe
+				"7PMl8BsHu7c" // 7achara 
+				
+			]
+		},
 		"2D Animation" : {
 			"videos": [
                 "4AgLnqS6zuI", //dari sghir 
